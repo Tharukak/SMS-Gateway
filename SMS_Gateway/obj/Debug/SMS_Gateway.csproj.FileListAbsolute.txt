@@ -1,0 +1,3 @@
+D:\Dushan\E_Drive\Q Drive\Dushan_developments\SMS_Gateway\SMS_Gateway\SMS_Gateway\bin\Debug\SMS_Gateway.exe.config
+D:\Dushan\E_Drive\Q Drive\Dushan_developments\SMS_Gateway\SMS_Gateway\SMS_Gateway\obj\Debug\SMS_Gateway.exe
+D:\Dushan\E_Drive\Q Drive\Dushan_developments\SMS_Gateway\SMS_Gateway\SMS_Gateway\obj\Debug\SMS_Gateway.pdb
